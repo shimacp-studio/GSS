@@ -1,0 +1,1 @@
+See previous message; replace GAS_URL with your /exec and TOKEN.
